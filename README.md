@@ -5,3 +5,10 @@ This repo contains working code implementation BloodViscoVelocityPINN model. Thi
 The code is built using pytorch package in python. Refer Report.pdf to get gist of the work.
 
 One can refer original implementation of PINN [here](https://github.com/maziarraissi/PINNs)
+
+-------------------------------------------------
+
+Main code - Codes/main.py
+Data - Data/
+
+To run the code, one can use colab notebook present in Codes/BloodViscoVelocityPINN.ipynb
